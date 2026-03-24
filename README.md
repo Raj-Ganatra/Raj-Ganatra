@@ -1,5 +1,5 @@
 ## LeetCode Stats
-(https://leetcard.jacoblin.cool/satyam_108?theme=dark&ext=heatmap)](https://leetcode.com/u/rajganatra10/)
+(https://leetcard.jacoblin.cool/rajganatra10?theme=dark&ext=heatmap)](https://leetcode.com/u/rajganatra10/)
 
 <!--
 **Raj-Ganatra/Raj-Ganatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
